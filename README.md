@@ -1,6 +1,6 @@
 # 📦 Axios Module
 
-> Secure and Easy <a href="https://github.com/mzabriskie/axios">Axios</a> integration with Nuxt.js.
+> Secure and Easy <a href="https://github.com/muzi131313/axios-module-ie">Axios-ie</a> integration with Nuxt.js.
 
 <p align="center">
 <a href="https://david-dm.org/nuxt-community/axios-module">
