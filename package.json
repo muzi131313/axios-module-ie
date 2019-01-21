@@ -1,6 +1,6 @@
 {
   "name": "nuxtjs-axios-ie",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Secure and easy axios integration with Nuxt.js",
   "license": "MIT",
   "main": "lib/module.js",
